@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - is the entry point
- * return: is 0 (success)
+ * main - this is the main function
+ * Description: "Programming is like building a multilingual puzzle"
+ * Return: always 0
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
