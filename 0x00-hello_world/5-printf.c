@@ -2,12 +2,12 @@
 
 /**
  * main - this is the main function
- * Description: "with proper grammar, but the outcome is a piece of art,\n"
+ * Description: "with proper grammar, but the outcome is a piece of art,"
  * Return: always 0
  */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
