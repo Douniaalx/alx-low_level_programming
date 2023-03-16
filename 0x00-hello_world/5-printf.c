@@ -2,7 +2,7 @@
 
 /**
  * main - this is the main function
- * Description: "with proper grammar, but the outcome is a piece of art,"
+ * Description: "with proper grammar, but the outcome is a piece of art,\n"
  * Return: always 0
  */
 
